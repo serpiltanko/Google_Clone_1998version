@@ -1,0 +1,68 @@
+.bg-color{
+
+    background-color:#FFFFFF;
+}
+
+.section1-bg-color{
+
+    background-color: #EEEEEE;
+}
+
+.input{
+    width: 100%;
+}
+
+.image{
+    width: 351px;
+    height: 113px;
+}
+
+.section1-size{
+    border: 0;
+    width: 90%;
+    margin: -15px 10px -15px 10px
+}
+
+.section1-input{
+    width: 20%;
+    margin: -1px;
+}
+/* .card{
+    width:33% ;
+    float: left;
+} */
+
+.footer-font-size{
+
+    font-size: small;
+    margin: -1px;
+}
+
+.td1{
+    background: #7EE5DA;
+    width: 37%;
+    text-align: center;
+    
+}
+
+.td2{
+    background: #70CCC2;
+    text-align: center;
+    font-size: small;
+}
+
+.td3{
+    background: #62B3AA;
+    width: 43%;
+    text-align: center;
+    font-size: small;
+
+}
+
+
+.card{
+
+    width: 90%;
+    margin: -1;
+}
+
